@@ -10,4 +10,4 @@ imc = quilo / (altura*altura)
 
 
 
-print(f"Com base nos dados apresentados, seu IMC (Índice de Massa Corporal) equivale a {imc}! Espero ter ajudado!")
+print(f"Com base nos dados apresentados, seu IMC (Índice de Massa Corporal) equivale a {imc:.0f}! Espero ter ajudado!")
